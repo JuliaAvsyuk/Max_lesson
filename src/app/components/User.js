@@ -7,7 +7,7 @@ export class User extends React.Component{
             <div>
                 <div className="row">
                    <div className="col-xs-12">
-                       <h1>The User Page</h1>
+                       <h1>The Page #1</h1>
                    </div>
                 </div>
 
