@@ -7,7 +7,7 @@ export const Header = (props) => {
                 <div className="container">
                     <div className="navbar-header">
                         <ul className="nav navbar-nav">
-                        <li><Link to={"/home"} style={{color: "red"}}>Home</Link></li>
+                        <li><Link to={"/home"} style={{color: "black"}}>Home</Link></li>
                         <li><Link to={"/user/"} className={"active"}>User</Link></li>
                         </ul>
                     </div>
